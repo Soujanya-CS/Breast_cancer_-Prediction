@@ -26,7 +26,7 @@ The project involves the following steps:
 4. **Model Evaluation:** Evaluate the models using various performance metrics beyond accuracy, including precision, recall, F1 score, and ROC AUC.
 
 5. **GitHub Repository Structure:**
-   - `breast_cancer_dataset.csv`: The dataset used for analysis.
+   - `cancer.csv`: The dataset used for analysis.
    - `breast_cancer_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
    - `requirements.txt`: List of required Python packages.
 
