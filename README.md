@@ -1,4 +1,3 @@
-# Breast_cancer_-Prediction
 # Breast Cancer Prediction using Machine Learning
 
 This repository contains a data analysis project for predicting breast cancer using machine learning techniques. The goal is to build predictive models to classify whether a patient has breast cancer or not based on cell nucleus details from breast mass.
