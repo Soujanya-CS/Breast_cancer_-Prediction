@@ -2,6 +2,14 @@
 
 This repository contains a data analysis project for predicting breast cancer using machine learning techniques. The goal is to build predictive models to classify whether a patient has breast cancer or not based on cell nucleus details from breast mass.
 
+## Requirements
+
+Make sure you have the following libraries installed. You can install them using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Project Overview
 
 The project involves the following steps:
@@ -22,13 +30,6 @@ The project involves the following steps:
    - `breast_cancer_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
    - `requirements.txt`: List of required Python packages.
 
-## Requirements
-
-Make sure you have the following libraries installed. You can install them using the following command:
-
-```bash
-pip install -r requirements.txt
-
-**## Conclusion**
+## Conclusion
 
 This project demonstrates the process of data analysis, preprocessing, building machine learning models, and evaluating their performance for breast cancer prediction. By considering various performance metrics, we gain a better understanding of how well the models are performing in detecting breast cancer.
